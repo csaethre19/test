@@ -1,2 +1,0 @@
-This is my first file. 
-I am making a change so I can practice using git commit -a
