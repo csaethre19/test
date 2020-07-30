@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is my first file
 I am making a change so I can practice using git commit -a
+=======
+This is my first file. 
+I am making a change so I can practice using git commit -a
+new branch?
+>>>>>>> new_branch
