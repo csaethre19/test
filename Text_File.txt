@@ -1,1 +1,6 @@
-All companies are technology companies in today's world. And almost all of them struggle with IT ... be it application development, third party application integration, cloud adoption and other digital transformation efforts.
+All companies are technology companies in today's world. 
+And almost all of them struggle with IT 
+... be it application development, 
+third party application integration, 
+cloud adoption and other digital transformation efforts.
+MODIFIED
